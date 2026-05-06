@@ -3,7 +3,7 @@
 ## 1. Thông tin chung
 - Họ và tên:Nguyễn Đức Hoàng
 - Lớp:KHMT 17 -01
-- Repo:
+- Repo:https://github.com/HoangKHMT/fit-dnu-cs-16-01-17-01-csc4005-csc4005_lab2_cnn_neu-csc4005_lab2_neu_cnn_starter
 - W&B project: https://wandb.ai/hoangnguyen2200568-dainam-vietnam/csc4005-lab2-neu-cnn/runs/zbyx2zsf?nw=nwuserhoangnguyen2200568
 
 ## 2. Bài toán
