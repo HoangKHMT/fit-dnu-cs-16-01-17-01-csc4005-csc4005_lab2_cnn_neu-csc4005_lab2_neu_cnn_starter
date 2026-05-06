@@ -77,7 +77,7 @@ Tận dụng feature từ ImageNet
 | ResNet18 | transfer/finetune | XX% | XX% | nhanh hơn | cao | ổn định hơn |
 
 ## 5. Phân tích learning curves
-outputs/debug_run/curves.png
+![Learning Curves](outputs/debug_run/curves.png)
 
 📌 Nhận xét:
 
@@ -86,7 +86,7 @@ Validation loss giảm và ổn định
 Không có dấu hiệu overfitting nghiêm trọng
 Accuracy tăng nhanh ở các epoch đầu
 ## 6. Confusion matrix và lỗi dự đoán sai
-outputs/debug_run/confusion_matrix.png
+![Confusion Matrix](outputs/debug_run/confmat.png)
 
 📌 Nhận xét:
 
